@@ -23,3 +23,7 @@ else:
 	 print(" First Tell Who you are? ")
 	  print("This is Naveen")
 	   Print("Ok My Name Gayathri")
+<<<<<<< HEAD
+=======
+	    print("Tell me about u Something")
+>>>>>>> master
